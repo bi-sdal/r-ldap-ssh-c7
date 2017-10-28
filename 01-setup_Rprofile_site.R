@@ -31,7 +31,12 @@
 # file.edit("~/.Rprofile")
 
 site_path = R.home(component = "home")
+print(site_path)
+
 fname = file.path(site_path, "etc", "Rprofile.site")
+print(fname)
+
+if(!file.exists(fname)) {file.create(fname)}
 
 if (file.exists(fname)) {
     print(sprintf('RProfile.site exists here: %s', fname))

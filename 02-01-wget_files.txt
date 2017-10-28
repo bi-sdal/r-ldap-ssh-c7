@@ -1,0 +1,4 @@
+https://github.com/bi-sdal/mro-ldap-ssh-c7/raw/master/gdal.7z.001
+https://github.com/bi-sdal/mro-ldap-ssh-c7/raw/master/gdal.7z.002
+https://github.com/bi-sdal/mro-ldap-ssh-c7/raw/master/gdal.7z.003
+https://github.com/bi-sdal/mro-ldap-ssh-c7/raw/master/proj-4.9.3-bin.tar.gz
